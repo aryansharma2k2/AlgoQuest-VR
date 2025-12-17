@@ -14,7 +14,9 @@ Each algorithm has:
 - A **Puzzle** mode (hands-on problem solving)
 
 ---
-
+## Demo
+[![XR Demo](https://img.youtube.com/vi/hyeZrB5ZFnE/0.jpg)](https://www.youtube.com/watch?v=hyeZrB5ZFnE)
+---
 ## ✨ Key Ideas
 
 - **Embodied learning**: Learners manipulate a rack of spheres representing array elements using ray or direct grab.
